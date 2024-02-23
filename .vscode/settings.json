@@ -1,0 +1,6 @@
+{
+    "vim.camelCaseMotion.enable": true,
+    "vim.easymotion": true,
+    "vim.enableNeovim": true,
+    "vim.overrideCopy": false
+}
